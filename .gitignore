@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+
+# Databases for this assignment
+users.db
+products.db
+orders.db
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Migrations (optional for assignment)
+*/migrations/*.py
+!*/migrations/__init__.py
