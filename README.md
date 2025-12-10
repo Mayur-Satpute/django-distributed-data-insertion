@@ -127,7 +127,6 @@ Orders: [(1,'Order Added'), ..., (8,'Invalid')]
 
 ## 🔗 GitHub Repository
 
-➡ Replace this line with your repo link once uploaded
 👉 `https://github.com/Mayur-Satpute/django-distributed-data-insertion`
 
 ---
