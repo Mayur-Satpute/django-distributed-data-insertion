@@ -133,7 +133,7 @@ Orders: [(1,'Order Added'), ..., (8,'Invalid')]
 
 ## ✍ Author
 
-**Mayur**
+**Mayur Satpute**
 📧 [mayursatpute246@gmail.com](mailto:mayursatpute246@gmail.com)
 📱 (+91) 9172072739
 
